@@ -1,0 +1,6 @@
+port forward for 5432
+port for tcp 5432
+host the local ip
+and port 5432
+node server.js
+run bat
